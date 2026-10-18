@@ -25,7 +25,7 @@ Hey! <br>I'm Rosi(ROstom SIle [kurdish]) , I am 15 years old and I live in Germa
 [![](https://komarev.com/ghpvc/?username=rosikur&icon=0&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RostomSile) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RostomSile) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
