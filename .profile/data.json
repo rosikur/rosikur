@@ -1,0 +1,375 @@
+{
+ "key": "2c05bb88",
+ "stars": 0,
+ "contributions": 174,
+ "repos": 19,
+ "followers": 0,
+ "languages": [
+  [
+   "HTML",
+   4375492
+  ],
+  [
+   "GDScript",
+   31713
+  ],
+  [
+   "JavaScript",
+   11817
+  ],
+  [
+   "CSS",
+   8353
+  ],
+  [
+   "C",
+   7669
+  ],
+  [
+   "Dart",
+   5877
+  ],
+  [
+   "Swift",
+   900
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "Mac-Mini-Ai-Powered-WALL-E",
+   "url": "https://github.com/rosikur/Mac-Mini-Ai-Powered-WALL-E",
+   "text": "This will be a self moving Robot that looks like WALL E because why not it will hav lots of sensors like a Camera ,Mic , Speaker Tilting Infared(mybe) etc pp",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "My-Hackpad",
+   "url": "https://github.com/rosikur/My-Hackpad",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "keyboard",
+   "url": "https://github.com/rosikur/keyboard",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BriefComputer",
+   "url": "https://github.com/rosikur/BriefComputer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Aria",
+   "url": "https://github.com/rosikur/Aria",
+   "text": "a website for aria.hackclub.com",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Flashlight",
+   "url": "https://github.com/rosikur/Flashlight",
+   "text": "A DIY Flashlight^^",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "rosikur",
+   "url": "https://github.com/rosikur/rosikur",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "info",
+   "url": "https://github.com/rosikur/info",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "YouProEXTRA",
+   "url": "https://github.com/rosikur/YouProEXTRA",
+   "text": "YouPro/YTLite/YTKillerPlus IPA build",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "mR3",
+   "url": "https://github.com/rosikur/mR3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Flashlight",
+   "url": "https://github.com/rosikur/Flashlight",
+   "text": "A DIY Flashlight^^",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Aria",
+   "url": "https://github.com/rosikur/Aria",
+   "text": "a website for aria.hackclub.com",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "keb",
+   "url": "https://github.com/rosikur/keb",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BriefComputer",
+   "url": "https://github.com/rosikur/BriefComputer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "keyboard",
+   "url": "https://github.com/rosikur/keyboard",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "App",
+   "url": "https://github.com/rosikur/App",
+   "text": "Language learning app  for Arabic German Kurdish and French",
+   "fork": false,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "Slackbotthatdoesnotslack",
+   "url": "https://github.com/rosikur/Slackbotthatdoesnotslack",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "afghan",
+   "url": "https://github.com/rosikur/afghan",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "myfirstwarioware",
+   "url": "https://github.com/rosikur/myfirstwarioware",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "Mac-Mini-Ai-Powered-WALL-E",
+   "url": "https://github.com/rosikur/Mac-Mini-Ai-Powered-WALL-E",
+   "text": "This will be a self moving Robot that looks like WALL E because why not it will hav lots of sensors like a Camera ,Mic , Speaker Tilting Infared(mybe) etc pp",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "friends-website",
+   "url": "https://github.com/rosikur/friends-website",
+   "text": "making a website for my friend´s buisiness on german",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "My-Hackpad",
+   "url": "https://github.com/rosikur/My-Hackpad",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "My-own-Web-OS",
+   "url": "https://github.com/rosikur/My-own-Web-OS",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "My-website",
+   "url": "https://github.com/rosikur/My-website",
+   "text": "My website",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "YTLite",
+   "url": "https://github.com/rosikur/YTLite",
+   "text": "A flexible enhancer for YouTube on iOS",
+   "fork": true,
+   "stars": 0,
+   "language": "Logos",
+   "topics": []
+  }
+ ]
+}
