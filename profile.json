@@ -150,16 +150,16 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/rosikur_"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/@rosi_787_3"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:paypal",
+        "url": "https://www.paypal.me/RostomSile"
       }
     ],
     "variant": "chip",
