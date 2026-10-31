@@ -1,5 +1,5 @@
 {
- "key": "ec37461d",
+ "key": "18c5fbf",
  "stars": 0,
  "contributions": 190,
  "repos": 19,
@@ -138,13 +138,17 @@
    {
     "c": 0,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 4
  },
  "pins": [
