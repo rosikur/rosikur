@@ -1,5 +1,5 @@
 {
- "key": "95df6881",
+ "key": "ab348223",
  "stars": 0,
  "contributions": 193,
  "repos": 19,
@@ -133,14 +133,18 @@
    {
     "c": 0,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 4
  },
  "pins": [
