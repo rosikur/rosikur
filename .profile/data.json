@@ -1,7 +1,7 @@
 {
- "key": "6c55e0c8",
- "stars": 0,
- "contributions": 207,
+ "key": "8eff8570",
+ "stars": 11,
+ "contributions": 208,
  "repos": 22,
  "followers": 1,
  "languages": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 27,
     "today": true
    },
@@ -144,7 +144,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 4
  },
  "pins": [
@@ -153,7 +153,7 @@
    "url": "https://github.com/rosikur/My-Hackpad",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "C",
    "topics": []
   },
@@ -162,7 +162,7 @@
    "url": "https://github.com/rosikur/keyboard",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
    "topics": []
   },
@@ -171,7 +171,7 @@
    "url": "https://github.com/rosikur/BriefComputer",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
    "topics": []
   },
@@ -180,7 +180,7 @@
    "url": "https://github.com/rosikur/Aria",
    "text": "a website for aria.hackclub.com",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "HTML",
    "topics": []
   },
@@ -189,7 +189,7 @@
    "url": "https://github.com/rosikur/Flashlight",
    "text": "A DIY Flashlight^^",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
    "topics": []
   },
@@ -198,7 +198,7 @@
    "url": "https://github.com/rosikur/mR3",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "C++",
    "topics": []
   }
@@ -209,8 +209,98 @@
    "url": "https://github.com/rosikur/num",
    "text": "",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "btcmnr",
+   "url": "https://github.com/rosikur/btcmnr",
+   "text": "",
+   "fork": false,
+   "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "rosikur",
+   "url": "https://github.com/rosikur/rosikur",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "info",
+   "url": "https://github.com/rosikur/info",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "mR3",
+   "url": "https://github.com/rosikur/mR3",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Flashlight",
+   "url": "https://github.com/rosikur/Flashlight",
+   "text": "A DIY Flashlight^^",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Aria",
+   "url": "https://github.com/rosikur/Aria",
+   "text": "a website for aria.hackclub.com",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "keb",
+   "url": "https://github.com/rosikur/keb",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BriefComputer",
+   "url": "https://github.com/rosikur/BriefComputer",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "keyboard",
+   "url": "https://github.com/rosikur/keyboard",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "My-Hackpad",
+   "url": "https://github.com/rosikur/My-Hackpad",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
    "topics": []
   },
   {
@@ -223,91 +313,10 @@
    "topics": []
   },
   {
-   "name": "btcmnr",
-   "url": "https://github.com/rosikur/btcmnr",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "rosikur",
-   "url": "https://github.com/rosikur/rosikur",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "info",
-   "url": "https://github.com/rosikur/info",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
-  },
-  {
    "name": "YouProEXTRA",
    "url": "https://github.com/rosikur/YouProEXTRA",
    "text": "YouPro/YTLite/YTKillerPlus IPA build",
    "fork": true,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "mR3",
-   "url": "https://github.com/rosikur/mR3",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "Flashlight",
-   "url": "https://github.com/rosikur/Flashlight",
-   "text": "A DIY Flashlight^^",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "Aria",
-   "url": "https://github.com/rosikur/Aria",
-   "text": "a website for aria.hackclub.com",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "keb",
-   "url": "https://github.com/rosikur/keb",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "BriefComputer",
-   "url": "https://github.com/rosikur/BriefComputer",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "keyboard",
-   "url": "https://github.com/rosikur/keyboard",
-   "text": "",
-   "fork": false,
    "stars": 0,
    "language": null,
    "topics": []
@@ -364,15 +373,6 @@
    "fork": false,
    "stars": 0,
    "language": "CSS",
-   "topics": []
-  },
-  {
-   "name": "My-Hackpad",
-   "url": "https://github.com/rosikur/My-Hackpad",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "C",
    "topics": []
   },
   {
